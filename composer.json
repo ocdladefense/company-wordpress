@@ -16,7 +16,7 @@
     "require": {
         "composer/installers":"~1.0",
         "ocdladefense/company-theme":"dev-development",
-        "ocdladefense/wp-salesforce":"dev-development",
+        "ocdladefense/wp-salesforce":"~2.0",
         "ocdladefense/wp-composer":"dev-main"
     }
 }
