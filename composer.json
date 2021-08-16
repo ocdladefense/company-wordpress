@@ -11,9 +11,7 @@
         }
     ],
     "extra": {
-    	"installer-paths": {
-            "wp-content/themes/company":["ocdladefense/company-theme"]
-        }
+    	"installer-paths": {}
     },
     "require": {
         "composer/installers":"~1.0",
