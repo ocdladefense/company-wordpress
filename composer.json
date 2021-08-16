@@ -3,6 +3,7 @@
     "description": "Wordpress install for company",
     "type": "wordpress-theme",
     "require": {
-        "composer/installers":"~1.0"
+        "composer/installers":"~1.0",
+        "ocdladefense/company-theme":"~1.0"
     }
 }
