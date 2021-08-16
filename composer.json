@@ -11,11 +11,12 @@
         }
     ],
     "extra": {
-    	"installer-paths": {}
+    	"installer-paths": {
+            "wp-content/themes/company":["ocdladefense/company-theme"]
+        }
     },
     "require": {
         "composer/installers":"~1.0",
-        "ocdladefense/wp-composer":"dev-main",
         "ocdladefense/company-theme":"dev-development"
     }
 }
