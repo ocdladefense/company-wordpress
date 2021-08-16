@@ -11,11 +11,7 @@
         }
     ],
     "extra": {
-    	"installer-paths": {
-            "wordpress/wp-content/plugins/salesforce":["ocdladefense/wp-salesforce"],
-            "wordpress/wp-content/plugins/composer":["ocdladefense/wp-composer"],
-            "wordpress/wp-content/themes/company":["ocdladefense/company-theme"]
-    	}
+    	"installer-paths": {}
     },
     "require": {
         "composer/installers":"~1.0",
