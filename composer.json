@@ -1,5 +1,5 @@
 {
-    "name": "ocdladefense/company-theme",
+    "name": "ocdladefense/company-wordpress",
     "description": "A wordpress install for the company.",
     "minimum-stability": "dev",
     "type":"wordpress-theme",
@@ -11,7 +11,9 @@
         }
     ],
     "extra": {
-    	"installer-paths": {}
+    	"installer-paths": {
+            "wordpress/wp-content/themes/company":["ocdladefense/company-theme"]
+        }
     },
     "require": {
         "composer/installers":"~1.0",
