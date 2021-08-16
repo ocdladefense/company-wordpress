@@ -1,0 +1,8 @@
+{
+    "name": "ocdladefense/company-wordpress",
+    "description": "Wordpress install for company",
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers":"~1.0"
+    }
+}
