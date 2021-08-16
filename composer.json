@@ -19,11 +19,6 @@
     },
     "require": {
         "composer/installers":"~1.0",
-        "wpackagist-plugin/create-and-assign-categories-for-pages":"1.2",
-        "wpackagist-plugin/custom-post-widget":"3.2.1",
-        "wpackagist-plugin/custom-sidebars":"3.31",
-        "wpackagist-plugin/wp-media-manager-lite":"1.1.2",
-        "ocdladefense/wp-salesforce":"dev-development",
         "ocdladefense/wp-composer":"dev-main",
         "ocdladefense/company-theme":"dev-development"
     }
